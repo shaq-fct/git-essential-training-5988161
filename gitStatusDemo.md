@@ -1,2 +1,4 @@
-this is a new line and a change
-change 3 (without 2)
+this is a new line and a change 
+first do change 2
+then change 3 
+merge conflict resolved 
